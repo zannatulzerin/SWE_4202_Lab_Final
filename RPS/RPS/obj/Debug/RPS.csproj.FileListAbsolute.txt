@@ -1,0 +1,6 @@
+D:\Uniiii\1_2\Swe 4202\RPS\RPS\obj\Debug\RPS.csproj.AssemblyReference.cache
+D:\Uniiii\1_2\Swe 4202\RPS\RPS\obj\Debug\RPS.csproj.SuggestedBindingRedirects.cache
+D:\Uniiii\1_2\Swe 4202\RPS\RPS\obj\Debug\RPS.Form1.resources
+D:\Uniiii\1_2\Swe 4202\RPS\RPS\obj\Debug\RPS.Properties.Resources.resources
+D:\Uniiii\1_2\Swe 4202\RPS\RPS\obj\Debug\RPS.csproj.GenerateResource.cache
+D:\Uniiii\1_2\Swe 4202\RPS\RPS\obj\Debug\RPS.csproj.CoreCompileInputs.cache
