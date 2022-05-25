@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\GradeApp2\GradeApp2\bin\Debug\GradeApp2.exe.config
+C:\Users\Admin\source\repos\GradeApp2\GradeApp2\bin\Debug\GradeApp2.exe
+C:\Users\Admin\source\repos\GradeApp2\GradeApp2\bin\Debug\GradeApp2.pdb
+C:\Users\Admin\source\repos\GradeApp2\GradeApp2\obj\Debug\GradeApp2.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\GradeApp2\GradeApp2\obj\Debug\GradeApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\GradeApp2\GradeApp2\obj\Debug\GradeApp2.Form1.resources
+C:\Users\Admin\source\repos\GradeApp2\GradeApp2\obj\Debug\GradeApp2.Properties.Resources.resources
+C:\Users\Admin\source\repos\GradeApp2\GradeApp2\obj\Debug\GradeApp2.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\GradeApp2\GradeApp2\obj\Debug\GradeApp2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\GradeApp2\GradeApp2\obj\Debug\GradeApp2.exe
+C:\Users\Admin\source\repos\GradeApp2\GradeApp2\obj\Debug\GradeApp2.pdb

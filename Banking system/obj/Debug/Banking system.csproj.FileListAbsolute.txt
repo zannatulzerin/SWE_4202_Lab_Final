@@ -1,0 +1,11 @@
+D:\Uniiii\1_2\Swe 4202\Banking system\Banking system\bin\Debug\Banking system.exe.config
+D:\Uniiii\1_2\Swe 4202\Banking system\Banking system\bin\Debug\Banking system.exe
+D:\Uniiii\1_2\Swe 4202\Banking system\Banking system\bin\Debug\Banking system.pdb
+D:\Uniiii\1_2\Swe 4202\Banking system\Banking system\obj\Debug\Banking system.csproj.AssemblyReference.cache
+D:\Uniiii\1_2\Swe 4202\Banking system\Banking system\obj\Debug\Banking system.csproj.SuggestedBindingRedirects.cache
+D:\Uniiii\1_2\Swe 4202\Banking system\Banking system\obj\Debug\Banking_system.Form1.resources
+D:\Uniiii\1_2\Swe 4202\Banking system\Banking system\obj\Debug\Banking_system.Properties.Resources.resources
+D:\Uniiii\1_2\Swe 4202\Banking system\Banking system\obj\Debug\Banking system.csproj.GenerateResource.cache
+D:\Uniiii\1_2\Swe 4202\Banking system\Banking system\obj\Debug\Banking system.csproj.CoreCompileInputs.cache
+D:\Uniiii\1_2\Swe 4202\Banking system\Banking system\obj\Debug\Banking system.exe
+D:\Uniiii\1_2\Swe 4202\Banking system\Banking system\obj\Debug\Banking system.pdb
