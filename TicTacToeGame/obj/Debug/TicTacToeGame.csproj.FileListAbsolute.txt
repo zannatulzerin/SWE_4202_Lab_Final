@@ -1,0 +1,11 @@
+D:\Uniiii\1_2\Swe 4202\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.AssemblyReference.cache
+D:\Uniiii\1_2\Swe 4202\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.SuggestedBindingRedirects.cache
+D:\Uniiii\1_2\Swe 4202\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.Form1.resources
+D:\Uniiii\1_2\Swe 4202\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.Properties.Resources.resources
+D:\Uniiii\1_2\Swe 4202\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.GenerateResource.cache
+D:\Uniiii\1_2\Swe 4202\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.CoreCompileInputs.cache
+D:\Uniiii\1_2\Swe 4202\TicTacToeGame\TicTacToeGame\bin\Debug\TicTacToeGame.exe.config
+D:\Uniiii\1_2\Swe 4202\TicTacToeGame\TicTacToeGame\bin\Debug\TicTacToeGame.exe
+D:\Uniiii\1_2\Swe 4202\TicTacToeGame\TicTacToeGame\bin\Debug\TicTacToeGame.pdb
+D:\Uniiii\1_2\Swe 4202\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.exe
+D:\Uniiii\1_2\Swe 4202\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.pdb
