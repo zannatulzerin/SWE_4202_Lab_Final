@@ -1,0 +1,6 @@
+D:\Uniiii\1_2\Swe 4202\Lab10\Lab10\obj\Debug\Lab10.csproj.AssemblyReference.cache
+D:\Uniiii\1_2\Swe 4202\Lab10\Lab10\obj\Debug\Lab10.csproj.SuggestedBindingRedirects.cache
+D:\Uniiii\1_2\Swe 4202\Lab10\Lab10\obj\Debug\Lab10.Form1.resources
+D:\Uniiii\1_2\Swe 4202\Lab10\Lab10\obj\Debug\Lab10.Properties.Resources.resources
+D:\Uniiii\1_2\Swe 4202\Lab10\Lab10\obj\Debug\Lab10.csproj.GenerateResource.cache
+D:\Uniiii\1_2\Swe 4202\Lab10\Lab10\obj\Debug\Lab10.csproj.CoreCompileInputs.cache
